@@ -53,7 +53,7 @@ public class CacheService extends CachingConfigurerSupport {
         };
 
     }
-    
+
     @Bean
     public CacheManager cacheManager(RedisConnectionFactory connectionFactory) {
         RedisCacheManager redisCacheManager = RedisCacheManager.builder(connectionFactory).build();
@@ -62,6 +62,7 @@ public class CacheService extends CachingConfigurerSupport {
 
     /**
      * redis 数据库连接池
+     *
      * @return
      */
 
@@ -71,7 +72,7 @@ public class CacheService extends CachingConfigurerSupport {
         factory.setHostName(redisConn.getHost());
         factory.setPort(redisConn.getPort());
         factory.setTimeout(redisConn.getTimeout()); // 设置连接超时时间
-        
+
         return factory;
     }
 
@@ -81,7 +82,7 @@ public class CacheService extends CachingConfigurerSupport {
      * @param factory
      * @return
      */
-    @SuppressWarnings({ "rawtypes", "unchecked" })
+    @SuppressWarnings({"rawtypes", "unchecked"})
     @Bean
     public RedisTemplate<String, String> redisTemplate(RedisConnectionFactory factory) {
         StringRedisTemplate template = new StringRedisTemplate(factory);
@@ -93,7 +94,7 @@ public class CacheService extends CachingConfigurerSupport {
         template.setValueSerializer(jackson2JsonRedisSerializer);
         template.afterPropertiesSet();
         template.setEnableTransactionSupport(true);
-        
+
         return template;
     }
 }
