@@ -1,12 +1,12 @@
 package com.stip.net.redis;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.stereotype.Service;
+import org.springframework.context.annotation.Configuration;
 
 /**
  * @description redis连接信息配置类
  */
-@Service
+@Configuration
 @ConfigurationProperties(prefix = "spring.redis")
 public class RedisConn {
     private String host;

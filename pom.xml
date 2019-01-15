@@ -7,6 +7,9 @@
     <groupId>com.stip.net</groupId>
     <artifactId>stip-cloud-ss</artifactId>
     <version>1.0</version>
+    <modules>
+        <module>stip-cloud-common</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>stip-cloud-ss</name>
