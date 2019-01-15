@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-version" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stip-cloud-zuul" charset="UTF-8" />
+  </component>
+</project>

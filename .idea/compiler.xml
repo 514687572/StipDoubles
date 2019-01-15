@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stip-cloud-bus" />
+        <module name="stip-cloud-common" />
+        <module name="stip-cloud-config-server" />
+        <module name="stip-cloud-elasticsearch" />
+        <module name="stip-cloud-eureka" />
+        <module name="stip-cloud-gateway" />
+        <module name="stip-cloud-hystrix-dashboard" />
+        <module name="stip-cloud-redis" />
+        <module name="stip-cloud-user" />
+        <module name="stip-cloud-version" />
+        <module name="stip-cloud-zipkin-server" />
+        <module name="stip-cloud-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="stip-cloud-bus" target="1.8" />
+      <module name="stip-cloud-common" target="1.7" />
+      <module name="stip-cloud-config-server" target="1.8" />
+      <module name="stip-cloud-elasticsearch" target="1.8" />
+      <module name="stip-cloud-eureka" target="1.8" />
+      <module name="stip-cloud-gateway" target="1.8" />
+      <module name="stip-cloud-hystrix-dashboard" target="1.8" />
+      <module name="stip-cloud-redis" target="1.8" />
+      <module name="stip-cloud-user" target="1.8" />
+      <module name="stip-cloud-version" target="1.8" />
+      <module name="stip-cloud-zipkin-server" target="1.8" />
+      <module name="stip-cloud-zuul" target="1.8" />
+      <module name="StipDoubles" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

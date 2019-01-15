@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-user/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/stip-cloud-version/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

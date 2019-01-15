@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/StipDoubles.iml" filepath="$PROJECT_DIR$/.idea/StipDoubles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-bus/stip-cloud-bus.iml" filepath="$PROJECT_DIR$/stip-cloud-bus/stip-cloud-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-common/stip-cloud-common.iml" filepath="$PROJECT_DIR$/stip-cloud-common/stip-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-config-server/stip-cloud-config-server.iml" filepath="$PROJECT_DIR$/stip-cloud-config-server/stip-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-elasticsearch/stip-cloud-elasticsearch.iml" filepath="$PROJECT_DIR$/stip-cloud-elasticsearch/stip-cloud-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-eureka/stip-cloud-eureka.iml" filepath="$PROJECT_DIR$/stip-cloud-eureka/stip-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-gateway/stip-cloud-gateway.iml" filepath="$PROJECT_DIR$/stip-cloud-gateway/stip-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-hystrix-dashboard/stip-cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/stip-cloud-hystrix-dashboard/stip-cloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-redis/stip-cloud-redis.iml" filepath="$PROJECT_DIR$/stip-cloud-redis/stip-cloud-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-user/stip-cloud-user.iml" filepath="$PROJECT_DIR$/stip-cloud-user/stip-cloud-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-version/stip-cloud-version.iml" filepath="$PROJECT_DIR$/stip-cloud-version/stip-cloud-version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-zipkin-server/stip-cloud-zipkin-server.iml" filepath="$PROJECT_DIR$/stip-cloud-zipkin-server/stip-cloud-zipkin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stip-cloud-zuul/stip-cloud-zuul.iml" filepath="$PROJECT_DIR$/stip-cloud-zuul/stip-cloud-zuul.iml" />
+    </modules>
+  </component>
+</project>
